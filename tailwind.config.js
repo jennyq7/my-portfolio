@@ -6,7 +6,8 @@ module.exports = {
       colors: {
         primary: "#b3b3ff",
         textColor: "#000099",
-        accentColor: "#333399"
+        accentColor: "#333399",
+        greyColor: "#F0F0F0"
       },
       fontFamily: {
       body: ["Titillium Web"]
