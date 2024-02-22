@@ -2,7 +2,7 @@
 function Contact () {
 
     return (
-        <footer className="bg-primary p-2 pt-5 pb-5">
+        <footer className="bg-primary p-2 pt-5 pb-5" id="contact">
             <h3 className="font-semibold">Contact</h3>
             <p>Email: jennyq3333@gmail.com</p>
             <a className="text-blue-600 underline" href="https://www.linkedin.com/in/jennyquan7/"><p>Linkedin</p></a>

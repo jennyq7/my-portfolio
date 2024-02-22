@@ -4,7 +4,7 @@ import RecipeBox from '../../assets/recipe-short.png';
 
 function Projects ()  {
     return (
-        <div className="projects p-2 pt-3 pl-3 bg-greyColor">
+        <div className="projects p-2 pt-3 pl-3 bg-greyColor" id="projects">
             <h2 className="font-semibold pb-4">Projects</h2>
             <section className="md:flex md:flex-wrap xl:gap-y-px">
                 <div className="pb-3 md:flex md:gap-2 xl:w-2/4">

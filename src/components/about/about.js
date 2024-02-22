@@ -1,7 +1,7 @@
 function About () {
 
     return (
-        <section className=" bg-accentColor about p-2 pt-3 pl-3">
+        <section className=" bg-accentColor about p-2 pt-3 pl-3" id="about">
             <h2 className="font-semibold pb-3">About</h2>
             <p className="pb-3">I have always loved working with puzzles, both the process of putting pieces together as well as the satisfaction that comes with the end result.</p>
             <p className="pb-3">I enjoy expanding on my analytical and detail-oriented skills and my extensive administrative experience in real estate, construction and the finance industry has helped me further develop these skills as well as my strong problem-solving and time management skills. 
